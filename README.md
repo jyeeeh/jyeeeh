@@ -25,8 +25,8 @@
 ### 프로젝트
 |기간|프로젝트|
 |---|---|
-|2023.10|[Java+MariaDB 연결 CRUD 게시판](https://github.com/jyeeeh/Project/tree/main/Board(Java%2CMariaDB))|
-|2023.10|[HTML, CSS, JS 이용 개인 웹페이지](https://github.com/jyeeeh/Project/tree/main/WebPub)|
+|2023.10|[Java+MariaDB 연결 CRUD 게시판(개인)](https://github.com/jyeeeh/Project/tree/main/Board(Java%2CMariaDB))|
+|2023.10|[HTML, CSS, JS 이용 개인 웹페이지(개인)](https://github.com/jyeeeh/Project/tree/main/WebPub)|
 
 <br>
 
