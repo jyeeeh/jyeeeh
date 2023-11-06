@@ -9,6 +9,5 @@
    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
 
   - Development Tools
-  -  <img src="https://img.shields.io/badge/
-        intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> 
+<img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> 
   
