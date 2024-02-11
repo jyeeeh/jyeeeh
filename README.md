@@ -31,6 +31,8 @@
 <br>
 <br>
 
+![Jyeeeh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jyeeeh&layout=compact&title_color=f0a7aa&theme=buefy)
+
 ## 💻 Project
 <div style="display:flex; flex-direction:row;">
   
