@@ -32,8 +32,10 @@
 <br>
 
 ![Jyeeeh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jyeeeh&layout=compact&title_color=f0a7aa&theme=buefy)
+![Jyeeeh's github stats](https://github-readme-stats.vercel.app/api?username=jyeeeh)
 
-## 💻 Project
+<br>
+<h3 align="center"><b> 💻 Project</b></h3>
 <div style="display:flex; flex-direction:row;">
   
 |기간|프로젝트|
@@ -42,7 +44,9 @@
 |2023.10|[HTML, CSS, JS 이용 개인 웹페이지(개인)](https://github.com/jyeeeh/Project/tree/main/WebPub)|
 
 <br>
-
+<h3 align="center"><b>💌 Social </b></h3>
+<a href="mailto:universe78a@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=d14836&link=mailto:universe78a@gmail.com"/></a>
+	
 
 
 
