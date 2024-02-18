@@ -1,5 +1,8 @@
-### *.☆⸜(⑉˙ᗜ˙⑉)⸝♡.*
-<br><br>
+<br/>
+
+![header](https://capsule-render.vercel.app/api?type=transparent&color=_auto&height=100&section=header&text=Jihye's%20&fontSize=50)
+
+<br/>
 
 ## 📒 STACKS
 <div style="display:flex; flex-direction:row;">
@@ -32,22 +35,19 @@
 <br>
 
 ![Jyeeeh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jyeeeh&layout=compact&title_color=f0a7aa&theme=buefy)
-![Jyeeeh's github stats](https://github-readme-stats.vercel.app/api?username=jyeeeh)
+![Jyeeeh's github stats](https://github-readme-stats.vercel.app/api?username=jyeeeh&include_all_commits=true&rank_icon=github)
 
 <br>
-<h3 align="center"><b> 💻 Project</b></h3>
-<div style="display:flex; flex-direction:row;">
-  
-|기간|프로젝트|
-|---|---|
-|2023.10|[Java+MariaDB 연결 CRUD 게시판(개인)](https://github.com/jyeeeh/Project/tree/main/Board(Java%2CMariaDB))|
-|2023.10|[HTML, CSS, JS 이용 개인 웹페이지(개인)](https://github.com/jyeeeh/Project/tree/main/WebPub)|
+
+## ✏️Edu
+*  (2023.09-2024.03) 에듀테크 풀스택 개발자 양성(Java) - 천재IT교육센터
+
 
 <br>
-<h3 align="center"><b>💌 Social </b></h3>
-<a href="mailto:universe78a@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=d14836&link=mailto:universe78a@gmail.com"/></a>
+
+## 💌 Social 
+<a href="mailto:universe78a@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=d14836&link=mailto:universe78a@gmail.com"/></a>
+<a href="mailto:jnelnl@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=03C75A&link=mailto:jnelnl@naver.com"/></a>
 	
-
-
 
 
