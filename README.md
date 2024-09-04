@@ -1,9 +1,3 @@
-<br/>
-
-![header](https://capsule-render.vercel.app/api?type=transparent&color=_auto&height=100&section=header&text=Jihye's%20&fontSize=50)
-
-<br/>
-
 ## 📒 STACKS
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logoColor=white"> 
