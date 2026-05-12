@@ -28,8 +28,10 @@
 <br>
 <br>
 
-![Jyeeeh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jyeeeh&layout=compact&title_color=f0a7aa&theme=buefy)
-![Jyeeeh's github stats](https://github-readme-stats.vercel.app/api?username=jyeeeh&include_all_commits=true&rank_icon=github)
+<br>
+
+## 💼 Career
+*  (2024.05-2026.05) Full Stack Developer - 천재교육
 
 <br>
 
